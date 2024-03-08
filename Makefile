@@ -1,1 +1,2 @@
-gcc test.c
+release: test.c
+  gcc test.c
